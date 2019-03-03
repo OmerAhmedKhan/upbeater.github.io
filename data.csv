@@ -1,0 +1,61 @@
+name,major,about,skills_infovis,skills_statistics,skills_maths,skills_art,skills_computer,skills_programming,skills_graphics,skills_interaction,skills_evaluation,skills_communication,skills_collaboration,skills_repository
+Hannah Abbott ,Computer Science,"I'm interested in visualization because it allows us to gain insight from complex and large data sets. I like skiing, hiking, and music.",4,3,6,2,6,5,3,4,1,4,3,5
+Ludo Bagman ,Machine Learning,Going to the gym,1,5,5,1,7,8,3,2,1,10,8,7
+Bathilda Bagshot ,Engineering Physics,"I am an Erasmus exchange student from Istanbul Technical University. I am studying Engineering Physics but I have a huge interest in programming and data science. I am taking half of my courses in machine learning, data science and artificial intelligence fields. I am familiar with Photoshop and Illustrator, done some poster works with them in the past. I like minimalist designs and making them avant-garde.",6,5,5,3,10,7,4,6,4,10,7,5
+Katie Bell ,"Computer Science, Media Technology","Games, art",2,2,4,7,6,3,2,2,4,7,5,2
+Cuthbert Binns,Computer Science,"I enjoy doodling and bullet journaling, dancing and playing the badminton.",5,5,5,3,7,7,2,3,1,4,5,7
+Phineas Nigellus Black,Human-Computer Interaction,"Film, music videos, skiing",4,5,6,7,6,3,2,5,7,10,8,6
+Sirius Black,Computer Science,"I'm interested in machine learning, graphics and visualization. I do also make computer games as a hobby.",2,2,4,8,7,5,4,3,2,4,5,4
+Amelia Bones ,Media Technology,"Gym, baking cakes, socialize with friends.",3,2,5,5,6,2,1,1,3,8,7,3
+Susan Bones ,Computer Science,"Football, Youtube",2,6,8,2,6,4,2,2,3,7,6,5
+Terry Boot,Media Technology,"Music, dance",7,6,5,4,10,8,1,3,2,10,3,8
+Lavender Brown,Media Technology,I am interested in sports (preferably hockey followed by soccer) and music.,2,4,5,2,7,3,1,3,4,10,9,4
+Millicent Bulstrode,Computer Science,,2,3,10,8,10,7,2,6,2,10,7,8
+Charity Burbage,Media Technology,"I'm big into football. In the Swedish league Allsvenskan I follow AIK, but I also follow English club Liverpool FC tirelessly. About a year ago, I also picked up playing the guitar which has turned out to be a great hobby for me. ",2,4,7,3,7,6,2,5,6,9,10,6
+Frank Bryce,Media Technology,"I'm a media technology student with interests in web design/development, video, photography and graphics. In my spare time I like spending time learning graphic design, motion graphics and to become a better web designer/developer. Moreover I enjoy photography, sports and watching movies. ",2,2,4,2,6,3,1,2,3,7,3,4
+Alecto Carrow,Media Technology,"Computer games, working out, padle",1,3,6,3,7,5,1,4,4,8,9,7
+Amycus Carrow,Computer Science,"Rendering algorithms, game engine development and utility",5,6,5,6,9,7,8,2,1,7,7,9
+Reginald Cattermole,Computer Science,"Social interaction, Swimming, Video games, Programming, food. ",4,5,7,3,9,9,1,4,2,10,7,10
+Mary Cattermole ,"Computer Science, Business Administration",Travel,8,8,7,5,9,8,2,1,2,5,2,8
+Cho Chang ,"Statistics, Systems Engineering and Management",Listening to music,2,3,4,1,3,1,1,2,3,9,9,1
+Penelope Clearwater ,Media Technology,I am interested in all things visual. Love movies and especially video games. Got really interested in augmented reality from the Multimodal Interactions. Like web-developing in javascript with frameworks such as React and Angular. Excited to work with D3.js. ,4,2,3,3,8,3,1,5,2,9,8,7
+Michael Corner,Media Technology,"Music, sports, photography, games",5,4,6,5,7,5,4,4,4,6,6,6
+Vincent Crabbe,Computer Science,"I really enjoy my studies and I'm also running a digital agency besides the studies from 2,5 years back. When I don't enjoy studying or working I like to travel, meet new people, have beers with friends and be with my family.",5,2,2,7,9,6,2,6,7,10,9,9
+Colin Creevey,Media Technology,"UX design, Wireframing, Programming (C, Obj-C, C++, Python), Gaming, Reading up on tech news",7,3,6,8,10,8,2,6,4,5,2,9
+Fleur Delacour ,Media Technology,"I'm interested in graphics, UX-UI, web dev ",4,3,2,7,10,3,1,5,6,9,9,5
+Amos Diggory,Computer Science,Training ,2,4,5,3,7,4,1,2,1,6,7,7
+Albus Dumbledore,Media Technology,I am a musician beside my studies at KTH.,3,6,6,3,6,4,2,3,4,6,8,6
+Seamus Finnigan,Computer Science,"Programming, Rocket League, Music",1,3,5,1,9,7,8,3,2,1,9,8
+Marcus Flint,Computer Science,"Programming, video games, anything computer-related ",6,2,2,5,8,7,8,6,2,5,5,6
+Filius Flitwick ,Media Technology,I love music. I play a few instruments. Photography and film as well. Any creative channels,3,5,6,7,9,1,1,1,7,7,9,4
+Cornelius Fudge,"Systems,  Robotics and Control","My educational interests are mainly centered around autonomous systems. I like the idea of robots autonomously interacting with their environment. Thus, areas such as computer vision and machine learning is what really interests me. Apart from that I really enjoy spending time in nature and taking photos. I also enjoy doing a lot of sports and am constantly trying to improve my Swedish..",2,6,6,2,4,4,2,3,1,6,6,5
+Gellert Grindelwald ,Computer Science,Cooking and sports.,5,3,4,6,6,3,1,2,5,7,8,4
+Godric Gryffindor ,Computer Science,"Programming, Music/Guitar, Gaming",2,5,7,3,4,5,3,3,1,10,8,5
+Rubeus Hagrid ,Computer Science,"Photography, politics, news",3,4,4,1,7,6,1,3,2,8,6,7
+Rolanda Hooch ,Computer Science,"Software development, reading, gaming",5,4,5,8,9,8,5,8,7,10,5,9
+Helga Hufflepuff,Media Technology,Any type of development interests me a lot. I also love teaching others and making products which other people appreciate,1,3,5,3,7,4,1,3,4,9,4,6
+Hermione Granger,Computer Science,Drawing,2,2,4,8,9,8,2,6,4,7,8,9
+Igor Karkaroff ,Computer Science,,7,6,6,3,7,7,4,6,6,7,6,6
+Viktor Krum,Computer Science,Sports and video games,6,4,4,4,8,4,3,4,4,10,6,7
+Silvanus Kettleburn ,Media Technology,"I have a BFA in electronic media, so I enjoy art a lot: Exhibitions, paintings, drawings and all the other things in that world. I also like to exercise, I ride my bicycle (not in the snow), do indoor-rowing and basic exercise.  Used to work in a huge library and learned to love old books and manuscripts with forgotten stories. I have always liked programming and therefore decided to study my masters in order to explore more and improve my skills. ",4,2,2,9,8,3,2,2,3,9,8,5
+Bellatrix Lestrange,Computer Science,"Creating cool shit, mostly on some sort of a computer.",3,5,6,3,9,7,5,4,5,7,8,8
+Neville Longbottom,Computer Science,Games.,3,5,5,3,8,6,3,5,7,10,10,9
+Xenophilius Lovegood ,Computer Science,Video games and music,5,3,3,7,9,7,3,6,7,7,5,4
+Remus Lupin,Computer Science,Working out at the gym and playing video games. ,3,4,4,4,7,5,1,3,2,8,8,6
+Draco Malfoy,"Computer Science, Human-Computer Interaction","Computer games, reading, netflix, watching Twitch streams, beer",4,1,2,1,9,9,3,8,9,9,10,10
+Ernie Macmillan,Media Technology,"Sports of all kinds, computer games, programming (i suppose?)",3,6,4,2,8,5,2,7,7,10,9,6
+Minerva McGonagall,"Human-Computer Interaction, Media Technology",I like to create and design pretty things,3,1,4,6,7,2,1,4,5,9,6,1
+Cormac McLaggen,Data Science,"Art has always fascinated me  though I am not an artist but I feel that creative minds always look at things in a very different way. Looking at the data and visualizing it in a unique way is interesting as well as exciting .
+I love to cook .It is something that makes me happy . I become a creative person whenever i cook.",4,5,4,6,5,6,4,2,5,7,6,4
+Graham Montague,Computer Science,"I finished my bachelor's a couple of years ago and started working right away in the industry as a UI Engineer consultant focusing mainly on web technologies. I've also taken on some jobs before getting my degree but most were freelancing or volunteering. Right now I'm interested in meeting new people and sharpening my HCI-related skills. Some of my hobbies include playing music, coding, gaming, and reading.",3,5,7,3,9,8,3,5,7,8,10,9
+Theodore Nott,"Human-Computer Interaction, Media Technology",I like art and paint a lot. I have worked as a UX designer and love to create beautiful things such as logos and prototypes. I do also like front-end programming.,1,1,5,10,8,2,1,3,7,10,10,1
+Garrick Ollivander ,Computer Science,,3,3,4,3,9,8,5,5,3,7,7,1
+Pansy Parkinson,Computer Science,,7,4,4,7,8,8,6,7,4,7,8,7
+Peter Pettigrew ,Data Science,Travelling. Fashion.,5,7,8,6,8,8,6,4,7,10,10,8
+Antioch Peverell,"Computer Science, Media Technology, Mathematics, Statistics, Machine Learning",I love to watch and play football. I also like video games and how they are made. ,1,6,6,2,8,3,1,2,3,6,6,5
+Irma Pince,"Computer Science, Human-Computer Interaction","I like to work with more frontend-oriented technology, and in particular with solutions where I get to understand how to create something that has a high degree of usability(i.e. my interest in HCI in general).
+
+In terms of other hobbies, I have a keen interest in films as well as football. ",1,5,7,2,9,6,1,6,7,7,8,4
+Sturgis Podmore ,"Computer Science, Media Technology","I'm a big data engineer (or full stack engineer) and a seasonal entrepreneur, working with industry for more than 5 years. If I'm not an engineer then I would be an adventurer. I love expedition, trekking, mountaineering, skiing, last but not the least badminton. I collect adventures' memories with gadgets from action cameras to drone videography but I don't publish them. Hopefully will publish it one day. The next big thing in my bucket is to learn yacht sailing this summer. ",6,3,5,2,10,10,8,6,3,10,10,10
+Poppy Pomfrey ,Media Technology,,5,5,6,7,8,8,8,8,4,7,7,9
+Harry Potter ,Media Technology,,7,2,4,10,8,5,4,8,9,8,8,7

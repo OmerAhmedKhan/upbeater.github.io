@@ -1,0 +1,99 @@
+body {
+    font: 14px sans-serif;
+    color: white;
+    background: #191919;
+  }
+
+  h1 {
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 140%;
+  }
+
+  .svg-text {
+    fill:white;
+  }
+
+  .axis path,
+  .axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+  }
+
+  .bar {
+    fill: orange;
+  }
+
+  .solidArc:hover {
+    fill: #00ff33;
+  }
+
+  .midCircle:hover {
+    fill: #555555;
+  }
+
+  .solidArc {
+      -moz-transition: all 0.3s;
+      -o-transition: all 0.3s;
+      -webkit-transition: all 0.3s;
+      transition: all 0.3s;
+  }
+
+  .midCircle {
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+  }
+
+  .x.axis path {
+    display: none;
+  }
+
+  .aster-score {
+    line-height: 1;
+    font-weight: bold;
+    font-size: 500%;
+  }
+
+  .d3-tip {
+		pointer-events: "none";
+    line-height: 1.2;
+    font-weight: bold;
+    font-size: 12px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 12px;
+    background: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    border-radius: 2px;
+    max-width: 500px;
+  }
+
+  /* Style northward tooltips differently */
+  .d3-tip.n:after {
+    pointer-events: "none";
+    margin: -1px 0 0 0;
+    top: 100%;
+    left: 0;
+  }
+
+  .sidebar {
+    height: 100%;
+    width: 260px;
+    position: fixed;
+    z-index: 0;
+    top: 0;
+    left: 0;
+    overflow-x: hidden;
+    padding-top: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: transparent;
+  }
+
+  .main {
+    margin-left: 260px;
+    padding-left: 20px;
+    padding-top: 20px;
+  }
